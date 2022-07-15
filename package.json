@@ -87,6 +87,6 @@
     "remotedev-serialize": "^0.1.8",
     "remotedev-slider": "^1.1.1",
     "remotedev-utils": "0.0.1",
-    "terser-webpack-plugin": "^1.1.0"
+    "terser-webpack-plugin": "^1.3.0"
   }
 }
